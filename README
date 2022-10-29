@@ -8,7 +8,9 @@ we add
     user.name
     user.email
 we connect circle ci to our new repository
-We make circle ci changes
+We clone Environmental variables
+We add the SSH private key
+We make circleci changes in the .circleci/conf.yml file
 
 
 
