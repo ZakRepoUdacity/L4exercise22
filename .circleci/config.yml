@@ -42,7 +42,7 @@ jobs:
   #         command: |
   #           # Your command
   #           ansible-playbook main.yml -i inventory.txt 
-
+# 22 Exercise
   smoke_test:
     docker:
       - image: alpine:latest
